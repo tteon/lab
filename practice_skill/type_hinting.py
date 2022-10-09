@@ -86,3 +86,5 @@ print(f'foo result , {result}')
 ## tuple
 
 # pass
+
+# conclusion.
